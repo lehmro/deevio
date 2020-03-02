@@ -18,7 +18,7 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-const steps = ['Start the ultimate test to improve your knowledge about everything!', 'Answer the questions and then click next see your results', 'Your results'];
+const steps = ['Start the ultimate test to improve your knowledge about everything!', 'Answer the questions to see your results', 'Your results'];
 
 export default function App() {
   const classes = useStyles();
